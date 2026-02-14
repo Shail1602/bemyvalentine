@@ -1,0 +1,184 @@
+{
+  "names": {
+    "sender": "Rahul",
+    "receiver": "Liya"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Nair Ji",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/first.jpg",
+      "caption": "Our first date"
+    },
+    {
+      "image": "/src/assets/couple_photo/sunrise.jpg", 
+      "caption": "Watching Sunrise together"
+    },
+    {
+      "image": "/src/assets/couple_photo/birthday.jpg",
+      "caption": "Celebrating your Birthday"
+    },
+    {
+      "image": "/src/assets/couple_photo/model.jpg",
+      "caption": "You Slaying Like an International Model"
+    },
+    {
+      "image": "/src/assets/couple_photo/church.jpg",
+      "caption": "By the Church"
+    },
+{
+      "image": "/src/assets/couple_photo/thinking.jpg",
+      "caption": "Thinking about me"
+    },
+{
+      "image": "/src/assets/couple_photo/tie.jpg",
+      "caption": "Tying the knot"
+    },
+{
+      "image": "/src/assets/couple_photo/love.jpg",
+      "caption": "Love is in the air"
+    },
+{
+      "image": "/src/assets/couple_photo/church.jpg",
+      "caption": "By the Church"
+    },
+    {
+      "image": "/src/assets/couple_photo/trip.jpg",
+      "caption": "First trip together"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Will always treat you as a Passenger Princess 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Dooron Dooron",
+      "duration": "5:31",
+      "album": "Dooron Dooron",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Dooron_Dooron.jpg",
+      "audio": "/src/assets/songs/Dooron_Dooron.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Gehra Hua",
+      "duration": "6:02", 
+      "album": "Dhurandhar",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Gehra_Hua.jpg",
+      "audio": "/src/assets/songs/Gehra_Hua.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Ve Kamleya",
+      "duration": "04:07",
+      "album": "Rocky Aur Rani ki prem Kahaani",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Ve_Kamleya.jpg",
+      "audio": "/src/assets/songs/Ve_Kamleya.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Barbaad",
+      "duration": "5:57",
+      "album": "Saiyaara",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Barbaad.jpg",
+      "audio": "/src/assets/songs/Barbaad.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Mere Sohneya",
+      "duration": "3:13",
+      "album": "Kabir Singh",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Mere_Sohneya.jpg",
+      "audio": "/src/assets/songs/Mere_Sohneya.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Liya,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nRahul"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
