@@ -1,14 +1,29 @@
 # Netlify configuration for image optimization and performance
+
 [build]
   command = "npm run build"
   publish = "dist"
 
-# Enable gzip and brotli compression for all assets
+# Enable build processing and optimization
 [build.processing]
   skip_processing = false
 
 [build.processing.bundler]
   name = "esbuild"
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+[build.processing.assets]
+  versioning = "hash"
 
 # Image optimization and caching rules
 [[headers]]
@@ -32,21 +47,3 @@
   from = "/*"
   to = "/index.html"
   status = 200
-
-# Enable Brotli compression
-[build.processing]
-  skip_processing = false
-
-[build.processing.css]
-  bundle = true
-  minify = true
-
-[build.processing.js]
-  bundle = true
-  minify = true
-
-[build.processing.html]
-  pretty_urls = true
-
-[build.processing.assets]
-  versioning = "hash"
